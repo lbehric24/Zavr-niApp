@@ -1,0 +1,306 @@
+﻿id_ispitanika,fakultet,razina_studija,godina_studija,podrucje_studija,prosjecna_uspjesnost,kolegij,ects_kolegija,tezina_kolegija,bodovi_kolegija,tip_obveze,tip_izvorni,max_bodova,tezina_obveze,sigurnost_prije,dani_ucenja,sati_ucenja,ostvareni_bodovi,polozeno_prvi_put
+5,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,2. godina,Tehničke znanosti,Vrlo dobra,Markovljevi lanci,5.0,8.0,100,Mini test,Mini test,10.0,3.0,1.0,5.0,25.0,1,Nije primjenjivo
+5,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,2. godina,Tehničke znanosti,Vrlo dobra,Markovljevi lanci,5.0,8.0,100,Ispit,Ispit,90.0,9.0,4.0,21.0,100.0,49,Ne
+5,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,2. godina,Tehničke znanosti,Vrlo dobra,Teorija vjerojatnosti,5.0,7.0,100,Kolokvij,Kolokvij,50.0,6.0,1.0,14.0,70.0,25,Nije primjenjivo
+5,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,2. godina,Tehničke znanosti,Vrlo dobra,Teorija vjerojatnosti,5.0,7.0,100,Kolokvij,Kolokvij,50.0,7.0,3.0,5.0,37.0,27,Da
+5,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,2. godina,Tehničke znanosti,Vrlo dobra,Bayesovska statistika,5.0,4.0,100.0,Ispit,Ispit,100.0,5.0,3.0,7.0,21.0,50,Da
+6,Ostalo (nije na popisu),Diplomski studij,1. godina,Tehničke znanosti,Vrlo dobra,Električke energetske pretvorne,5.0,7.0,90,Kolokvij,Kolokvij,50.0,7.0,5.0,2.0,15.0,45,Da
+6,Ostalo (nije na popisu),Diplomski studij,1. godina,Tehničke znanosti,Vrlo dobra,Električke energetske pretvorne,5.0,7.0,90,Labos,Labos,100.0,5.0,7.0,1.0,2.0,96,Da
+6,Ostalo (nije na popisu),Diplomski studij,1. godina,Tehničke znanosti,Vrlo dobra,Mobilne komunikacijske mreze,6.0,8.0,120,Seminar,Seminar,50.0,8.0,4.0,3.0,20.0,50,Da
+6,Ostalo (nije na popisu),Diplomski studij,1. godina,Tehničke znanosti,Vrlo dobra,Mobilne komunikacijske mreze,6.0,8.0,120,Kolokvij,Kolokvij,200.0,9.0,4.0,4.0,30.0,185,Da
+6,Ostalo (nije na popisu),Diplomski studij,1. godina,Tehničke znanosti,Vrlo dobra,Elektricitet i magnetizam,8.0,10.0,200.0,Ispit,Ispit,200.0,10.0,3.0,7.0,50.0,188,Ne
+6,Ostalo (nije na popisu),Diplomski studij,1. godina,Tehničke znanosti,Vrlo dobra,Elektricitet i magnetizam,8.0,10.0,200.0,Usmeni ispit,Usmeni ispit,50.0,7.0,3.0,1.0,1.0,1.0,Da
+7,Effectus veleučilište,Preddiplomski studij,3. godina,Ostalo,Vrlo dobra,Osnove računovodstva,7.0,8.0,104,Kolokvij,Kolokvij,48.0,8.0,5.0,16.0,48.0,24,Ne
+7,Effectus veleučilište,Preddiplomski studij,3. godina,Ostalo,Vrlo dobra,Osnove računovodstva,7.0,8.0,104,Kolokvij,Kolokvij,48.0,9.0,5.0,16.0,48.0,29,Ne
+7,Effectus veleučilište,Preddiplomski studij,3. godina,Ostalo,Vrlo dobra,Financijska matematika,5.0,5.0,104,Kolokvij,Kolokvij,48.0,4.0,8.0,10.0,30.0,46,Da
+7,Effectus veleučilište,Preddiplomski studij,3. godina,Ostalo,Vrlo dobra,Financijska matematika,5.0,5.0,104,Kolokvij,Kolokvij,48.0,5.0,8.0,10.0,30.0,45,Da
+7,Effectus veleučilište,Preddiplomski studij,3. godina,Ostalo,Vrlo dobra,Radno pravo,7.0,8.0,96.0,Ispit,Ispit,96.0,7.0,7.0,14.0,42.0,83,Da
+8,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Vrlo dobra,Matematicka analiza 1,6.0,7.0,100,Ispit,Ispit,100.0,8.0,7.0,20.0,100.0,65,Da
+8,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Vrlo dobra,Matematicka analiza 1,6.0,7.0,100,Zadaće,Zadaće,5.0,6.0,8.0,15.0,15.0,5,Da
+8,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Vrlo dobra,Elektromagnetska polja,5.0,10.0,100,Projekt,Projekt,100.0,10.0,3.0,30.0,150.0,60,Da
+8,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Vrlo dobra,Elektromagnetska polja,5.0,10.0,100,Mini test,Mini test,5.0,10.0,5.0,0.0,0.0,4,Da
+8,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Vrlo dobra,Projektiranke elektronickih sklopova,5.0,6.0,100.0,Ispit,Ispit,100.0,6.0,8.0,2.0,10.0,80,Da
+9,Pravni fakultet (Zagreb),Preddiplomski studij,3. godina,Društvene znanosti,Dobra,Sociologija,7.0,4.0,80,Kolokvij,Kolokvij,40.0,6.0,3.0,8.0,35.0,33,Da
+9,Pravni fakultet (Zagreb),Preddiplomski studij,3. godina,Društvene znanosti,Dobra,Sociologija,7.0,4.0,80,Usmeni ispit,Usmeni ispit,3.0,5.0,5.0,2.0,10.0,2,Da
+9,Pravni fakultet (Zagreb),Preddiplomski studij,3. godina,Društvene znanosti,Dobra,Građansko pravo ,7.0,8.0,7,Usmeni ispit,Usmeni ispit,20.0,7.0,2.0,10.0,10.0,11,Da
+9,Pravni fakultet (Zagreb),Preddiplomski studij,3. godina,Društvene znanosti,Dobra,Građansko pravo ,7.0,8.0,7,Usmeni ispit,Usmeni ispit,7.0,8.0,4.0,14.0,80.0,4,Ne
+9,Pravni fakultet (Zagreb),Preddiplomski studij,3. godina,Društvene znanosti,Dobra,ULJP uoravljanje ljudskim potencijalima,7.0,7.0,20.0,Ispit,Ispit,20.0,7.0,3.0,12.0,80.0,13,Ne
+9,Pravni fakultet (Zagreb),Preddiplomski studij,3. godina,Društvene znanosti,Dobra,ULJP uoravljanje ljudskim potencijalima,7.0,7.0,20.0,Usmeni ispit,Usmeni ispit,5.0,7.0,5.0,5.0,35.0,35.0,Da
+10,Medicinski fakultet (Zagreb),Integrirani studij,1. godina,Biomedicina i zdravstvo,Dobra,Anatomija,24.0,10.0,100,Ispit,Ispit,60.0,8.0,7.0,40.0,150.0,36,Da
+10,Medicinski fakultet (Zagreb),Integrirani studij,1. godina,Biomedicina i zdravstvo,Dobra,Anatomija,24.0,10.0,100,Ispit,Ispit,60.0,9.0,8.0,40.0,180.0,46,Da
+10,Medicinski fakultet (Zagreb),Integrirani studij,1. godina,Biomedicina i zdravstvo,Dobra,Medicinka kemija i biokemija,8.0,7.0,45,Ispit,Ispit,15.0,7.0,9.0,7.0,40.0,14,Da
+10,Medicinski fakultet (Zagreb),Integrirani studij,1. godina,Biomedicina i zdravstvo,Dobra,Medicinka kemija i biokemija,8.0,7.0,45,Ispit,Ispit,15.0,7.0,7.0,6.0,36.0,13,Da
+10,Medicinski fakultet (Zagreb),Integrirani studij,1. godina,Biomedicina i zdravstvo,Dobra,Medicinka biologija,10.0,6.0,120.0,Ispit,Ispit,120.0,7.0,2.0,10.0,50.0,90,Da
+10,Medicinski fakultet (Zagreb),Integrirani studij,1. godina,Biomedicina i zdravstvo,Dobra,Medicinka biologija,10.0,6.0,120.0,Usmeni ispit,Usmeni ispit,0.0,7.0,6.0,5.0,25.0,75.0,Da
+11,,Preddiplomski studij,3. godina,Biomedicina i zdravstvo,Dobra,Kemija,15.0,9.0,100,Ispit,Ispit,100.0,8.0,3.0,30.0,60.0,60,Da
+11,,Preddiplomski studij,3. godina,Biomedicina i zdravstvo,Dobra,Kemija,15.0,9.0,100,Ispit,Ispit,100.0,8.0,3.0,30.0,60.0,60,Ne
+11,,Preddiplomski studij,3. godina,Biomedicina i zdravstvo,Dobra,Etika,5.0,2.0,100,Seminar,Seminar,10.0,2.0,7.0,2.0,6.0,10,Da
+11,,Preddiplomski studij,3. godina,Biomedicina i zdravstvo,Dobra,Etika,5.0,2.0,100,Ispit,Ispit,20.0,3.0,6.0,10.0,20.0,18,Da
+11,,Preddiplomski studij,3. godina,Biomedicina i zdravstvo,Dobra,Mikrobiologija ,8.0,7.0,10.0,Ispit,Ispit,10.0,7.0,6.0,10.0,20.0,9,Da
+11,,Preddiplomski studij,3. godina,Biomedicina i zdravstvo,Dobra,Mikrobiologija ,8.0,7.0,10.0,Usmeni ispit,Usmeni ispit,3.0,6.0,6.0,10.0,20.0,,Da
+12,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Uvod u modeliranje znanja,6.0,5.0,100,Kolokvij,Kolokvij,25.0,5.0,3.0,5.0,20.0,15,Da
+12,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Uvod u modeliranje znanja,6.0,5.0,100,Seminar,Seminar,15.0,2.0,8.0,4.0,8.0,13,Nije primjenjivo
+12,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Otkirvanje znanja u podacima,4.0,5.0,100,Kolokvij,Kolokvij,20.0,6.0,2.0,6.0,18.0,10,Da
+12,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Otkirvanje znanja u podacima,4.0,5.0,100,Projekt,Projekt,100.0,6.0,4.0,15.0,40.0,31,Nije primjenjivo
+12,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Programsko inženjerstvo,6.0,8.0,50.0,Ispit,Ispit,50.0,8.0,2.0,21.0,70.0,29,Ne
+12,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Programsko inženjerstvo,6.0,8.0,50.0,Usmeni ispit,Usmeni ispit,,8.0,8.0,2.0,10.0,,Da
+13,Fakultet političkih znanosti (Zagreb),Preddiplomski studij,3. godina,Društvene znanosti,Vrlo dobra,Uvod u komunikaciju,6.0,8.0,20,Kolokvij,Kolokvij,5.0,10.0,9.0,20.0,120.0,9,Da
+13,Fakultet političkih znanosti (Zagreb),Preddiplomski studij,3. godina,Društvene znanosti,Vrlo dobra,Uvod u komunikaciju,6.0,8.0,20,Kolokvij,Kolokvij,7.0,10.0,7.0,30.0,210.0,7,Da
+13,Fakultet političkih znanosti (Zagreb),Preddiplomski studij,3. godina,Društvene znanosti,Vrlo dobra,Uvod u novinarstvo,6.0,5.0,100,Kolokvij,Kolokvij,40.0,5.0,10.0,4.0,32.0,38,Da
+13,Fakultet političkih znanosti (Zagreb),Preddiplomski studij,3. godina,Društvene znanosti,Vrlo dobra,Uvod u novinarstvo,6.0,5.0,100,Kolokvij,Kolokvij,40.0,5.0,9.0,5.0,40.0,40,Da
+13,Fakultet političkih znanosti (Zagreb),Preddiplomski studij,3. godina,Društvene znanosti,Vrlo dobra,Antička i srednjovijekovna politička filozofija,5.0,10.0,40.0,Ispit,Ispit,40.0,10.0,8.0,20.0,160.0,30,Ne
+13,Fakultet političkih znanosti (Zagreb),Preddiplomski studij,3. godina,Društvene znanosti,Vrlo dobra,Antička i srednjovijekovna politička filozofija,5.0,10.0,40.0,Usmeni ispit,Usmeni ispit,,10.0,8.0,20.0,160.0,,Da
+14,Geotehnički fakultet (Varaždin),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Geologija,4.0,6.0,100,Kolokvij,Kolokvij,50.0,5.0,7.0,15.0,40.0,40,Da
+14,Geotehnički fakultet (Varaždin),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Geologija,4.0,6.0,100,Seminar,Seminar,50.0,7.0,7.0,5.0,25.0,50,Da
+14,Geotehnički fakultet (Varaždin),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Računalno projektiranje,4.0,9.0,100,Kolokvij,Kolokvij,50.0,9.0,3.0,30.0,90.0,32,Da
+14,Geotehnički fakultet (Varaždin),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Računalno projektiranje,4.0,9.0,100,Projekt,Projekt,50.0,9.0,3.0,15.0,30.0,30,Da
+14,Geotehnički fakultet (Varaždin),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Pravo i okoliš,4.0,4.0,100.0,Ispit,Ispit,50.0,5.0,6.0,10.0,15.0,47,Da
+14,Geotehnički fakultet (Varaždin),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Pravo i okoliš,4.0,4.0,100.0,Usmeni ispit,Usmeni ispit,,5.0,6.0,10.0,15.0,,Da
+15,Fakultet za menadžment u turizmu i ugostiteljstvu (Opatija),Preddiplomski studij,2. godina,Ostalo,Dobra,Menadžment,9.0,6.0,80,Kolokvij,Kolokvij,24.0,7.0,8.0,5.0,50.0,24,Da
+15,Fakultet za menadžment u turizmu i ugostiteljstvu (Opatija),Preddiplomski studij,2. godina,Ostalo,Dobra,Menadžment,9.0,6.0,80,Seminar,Seminar,12.0,6.0,8.0,3.0,30.0,12,Da
+15,Fakultet za menadžment u turizmu i ugostiteljstvu (Opatija),Preddiplomski studij,2. godina,Ostalo,Dobra,Matematika,6.0,10.0,100,Kolokvij,Kolokvij,24.0,10.0,4.0,10.0,50.0,70,Da
+15,Fakultet za menadžment u turizmu i ugostiteljstvu (Opatija),Preddiplomski studij,2. godina,Ostalo,Dobra,Matematika,6.0,10.0,100,Seminar,Seminar,20.0,10.0,5.0,10.0,15.0,15,Da
+15,Fakultet za menadžment u turizmu i ugostiteljstvu (Opatija),Preddiplomski studij,2. godina,Ostalo,Dobra,Makroekonomija,9.0,10.0,100.0,Ispit,Ispit,30.0,10.0,3.0,10.0,30.0,15,Ne
+15,Fakultet za menadžment u turizmu i ugostiteljstvu (Opatija),Preddiplomski studij,2. godina,Ostalo,Dobra,Makroekonomija,9.0,10.0,100.0,Usmeni ispit,Usmeni ispit,,10.0,3.0,10.0,15.0,,Ne
+16,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Uvod u termodinamiku,5.0,8.0,100,Kolokvij,Kolokvij,100.0,6.0,4.0,60.0,90.0,70,Ne
+16,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Uvod u termodinamiku,5.0,8.0,100,Usmeni ispit,Usmeni ispit,100.0,9.0,4.0,5.0,20.0,72,Ne
+16,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Matematika,9.0,2.0,100,Kolokvij,Kolokvij,100.0,2.0,9.0,4.0,30.0,82,Da
+16,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Matematika,9.0,2.0,100,Usmeni ispit,Usmeni ispit,100.0,4.0,8.0,1.0,4.0,76,Da
+16,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Mehanika fluida 1B,6.0,1.0,100.0,Ispit,Ispit,100.0,10.0,4.0,100.0,320.0,49,Ne
+16,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Mehanika fluida 1B,6.0,1.0,100.0,Usmeni ispit,Usmeni ispit,,10.0,1.0,100.0,200.0,,Ne
+17,Grafički fakultet (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Glavne tehnike tiska,6.0,8.0,100,Ispit,Ispit,50.0,9.0,3.0,15.0,80.0,39,Ne
+17,Grafički fakultet (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Glavne tehnike tiska,6.0,8.0,100,Usmeni ispit,Usmeni ispit,3.0,9.0,3.0,7.0,15.0,3,Da
+17,Grafički fakultet (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Tiskarske boje,3.0,4.0,50,Kolokvij,Kolokvij,45.0,3.0,6.0,2.0,4.0,40,Da
+17,Grafički fakultet (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Tiskarske boje,3.0,4.0,50,Usmeni ispit,Usmeni ispit,3.0,4.0,7.0,2.0,4.0,3,Da
+17,Grafički fakultet (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Male tehnike tiska,6.0,7.0,80.0,Ispit,Ispit,80.0,7.0,3.0,6.0,20.0,65,Da
+17,Grafički fakultet (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Male tehnike tiska,6.0,7.0,80.0,Usmeni ispit,Usmeni ispit,,9.0,2.0,7.0,20.0,,Da
+18,Agronomski fakultet (Zagreb),Preddiplomski studij,2. godina,Biotehničke znanosti,Dobra,Botanika,6.0,6.0,40,Kolokvij,Kolokvij,10.0,6.0,3.0,5.0,18.0,7,Da
+18,Agronomski fakultet (Zagreb),Preddiplomski studij,2. godina,Biotehničke znanosti,Dobra,Botanika,6.0,6.0,40,Usmeni ispit,Usmeni ispit,20.0,8.0,1.0,30.0,40.0,14,Da
+18,Agronomski fakultet (Zagreb),Preddiplomski studij,2. godina,Biotehničke znanosti,Dobra,Kemija s osnovama biokemije,6.0,10.0,100,Kolokvij,Kolokvij,50.0,9.0,2.0,7.0,22.0,22,Ne
+18,Agronomski fakultet (Zagreb),Preddiplomski studij,2. godina,Biotehničke znanosti,Dobra,Kemija s osnovama biokemije,6.0,10.0,100,Zadaće,Zadaće,10.0,5.0,2.0,3.0,10.0,8,Da
+18,Agronomski fakultet (Zagreb),Preddiplomski studij,2. godina,Biotehničke znanosti,Dobra,Vinogradarstvo 2,6.0,5.0,30.0,Ispit,Ispit,30.0,5.0,3.0,6.0,17.0,26,Da
+19,Fakultet zdravstvenih studija (Rijeka),Preddiplomski studij,2. godina,Biomedicina i zdravstvo,Vrlo dobra,Engleski jezik,3.0,6.0,100,Kolokvij,Kolokvij,25.0,6.0,7.0,5.0,25.0,21,Da
+19,Fakultet zdravstvenih studija (Rijeka),Preddiplomski studij,2. godina,Biomedicina i zdravstvo,Vrlo dobra,Engleski jezik,3.0,6.0,100,Seminar,Seminar,10.0,8.0,7.0,8.0,50.0,10,Da
+19,Fakultet zdravstvenih studija (Rijeka),Preddiplomski studij,2. godina,Biomedicina i zdravstvo,Vrlo dobra,Anatomija ,8.0,9.0,100,Ispit,Ispit,50.0,10.0,4.0,40.0,160.0,38,Ne
+19,Fakultet zdravstvenih studija (Rijeka),Preddiplomski studij,2. godina,Biomedicina i zdravstvo,Vrlo dobra,Anatomija ,8.0,9.0,100,Kolokvij,Kolokvij,25.0,7.0,5.0,7.0,28.0,19,Da
+19,Fakultet zdravstvenih studija (Rijeka),Preddiplomski studij,2. godina,Biomedicina i zdravstvo,Vrlo dobra,Etika,1.0,4.0,100.0,Ispit,Ispit,100.0,4.0,6.0,4.0,13.0,91,Da
+19,Fakultet zdravstvenih studija (Rijeka),Preddiplomski studij,2. godina,Biomedicina i zdravstvo,Vrlo dobra,Etika,1.0,4.0,100.0,Usmeni ispit,Usmeni ispit,,6.0,4.0,6.0,36.0,,Da
+20,Kineziološki fakultet (Zagreb),Integrirani studij,4. godina,Društvene znanosti,Vrlo dobra,Sistematska kineziologija ,5.0,8.0,100,Kolokvij,Kolokvij,100.0,5.0,3.0,2.0,6.0,72,Da
+20,Kineziološki fakultet (Zagreb),Integrirani studij,4. godina,Društvene znanosti,Vrlo dobra,Sistematska kineziologija ,5.0,8.0,100,Seminar,Seminar,100.0,5.0,4.0,2.0,6.0,90,Da
+20,Kineziološki fakultet (Zagreb),Integrirani studij,4. godina,Društvene znanosti,Vrlo dobra,Notacijska analiza ,2.0,1.0,100,Seminar,Seminar,100.0,3.0,10.0,2.0,5.0,100,Da
+20,Kineziološki fakultet (Zagreb),Integrirani studij,4. godina,Društvene znanosti,Vrlo dobra,Notacijska analiza ,2.0,1.0,100,Seminar,Izlaganje seminarskog rada,100.0,2.0,10.0,1.0,3.0,100,Da
+20,Kineziološki fakultet (Zagreb),Integrirani studij,4. godina,Društvene znanosti,Vrlo dobra,Opća kineziološka metodika ,6.0,8.0,100.0,Usmeni ispit,Usmeni ispit,,9.0,7.0,10.0,30.0,,Ne
+21,Građevinski fakultet u Rijeci,Preddiplomski studij,2. godina,Tehničke znanosti,Ne želim odgovoriti,Osnove projektiranja cesta ,5.0,7.0,100,Kolokvij,Kolokvij,22.0,7.0,4.0,7.0,45.0,15,Ne
+21,Građevinski fakultet u Rijeci,Preddiplomski studij,2. godina,Tehničke znanosti,Ne želim odgovoriti,Osnove projektiranja cesta ,5.0,7.0,100,Projekt,Projekt,40.0,10.0,3.0,20.0,75.0,35,Da
+21,Građevinski fakultet u Rijeci,Preddiplomski studij,2. godina,Tehničke znanosti,Ne želim odgovoriti,Matematika 1,9.0,9.0,100,Kolokvij,Kolokvij,35.0,9.0,4.0,35.0,80.0,18,Ne
+21,Građevinski fakultet u Rijeci,Preddiplomski studij,2. godina,Tehničke znanosti,Ne želim odgovoriti,Matematika 1,9.0,9.0,100,Kolokvij,Kolokvij,35.0,9.0,4.0,25.0,70.0,18,Ne
+21,Građevinski fakultet u Rijeci,Preddiplomski studij,2. godina,Tehničke znanosti,Ne želim odgovoriti,Mehanika tla i stijena,5.0,6.0,100.0,Ispit,Ispit,40.0,6.0,3.0,7.0,30.0,22,Da
+21,Građevinski fakultet u Rijeci,Preddiplomski studij,2. godina,Tehničke znanosti,Ne želim odgovoriti,Mehanika tla i stijena,5.0,6.0,100.0,Usmeni ispit,Usmeni ispit,,6.0,3.0,6.0,25.0,,Da
+22,Prirodoslovno-matematički fakultet (Zagreb),Preddiplomski studij,2. godina,Prirodne znanosti,Dobra,Matematička analiza 1,9.0,7.0,120,Kolokvij,Kolokvij,50.0,7.0,2.0,30.0,60.0,39,Da
+22,Prirodoslovno-matematički fakultet (Zagreb),Preddiplomski studij,2. godina,Prirodne znanosti,Dobra,Matematička analiza 1,9.0,7.0,120,Mini test,Mini test,10.0,3.0,3.0,5.0,10.0,8,Nije primjenjivo
+22,Prirodoslovno-matematički fakultet (Zagreb),Preddiplomski studij,2. godina,Prirodne znanosti,Dobra,Računarski praktikum 1,5.0,4.0,100,Kolokvij,Kolokvij,44.0,5.0,2.0,5.0,10.0,40,Da
+22,Prirodoslovno-matematički fakultet (Zagreb),Preddiplomski studij,2. godina,Prirodne znanosti,Dobra,Računarski praktikum 1,5.0,4.0,100,Zadaće,Zadaće,1.0,1.0,1.0,1.0,2.0,1,Nije primjenjivo
+23,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Strojno učenje 1,5.0,8.0,100,Kolokvij,Kolokvij,18.0,7.0,3.0,14.0,70.0,"8,67",Ne
+23,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Strojno učenje 1,5.0,8.0,100,Ispit,Ispit,18.0,9.0,5.0,20.0,120.0,"3,02",Ne
+23,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Ugradbeni računalni sustavi,5.0,6.0,100,Labos,Laboratorijska vježba,3.0,6.0,3.0,3.0,15.0,"2,25",Da
+23,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Ugradbeni računalni sustavi,5.0,6.0,100,Ispit,Ispit,33.0,7.0,4.0,10.0,50.0,17,Ne
+23,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Autonomni mobilni roboti,5.0,5.0,100.0,Ispit,Ispit,70.0,5.0,2.0,4.0,20.0,"52,82",Da
+23,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Autonomni mobilni roboti,5.0,5.0,100.0,Usmeni ispit,Usmeni ispit,,5.0,6.0,2.0,12.0,,Da
+24,Akademija likovnih umjetnosti (Zagreb),Integrirani studij,5. godina,Umjetničko područje,Izvrsna,Materijali i procesi,2.0,5.0,20,Kolokvij,Kolokvij,10.0,5.0,2.0,3.0,15.0,9,Da
+24,Akademija likovnih umjetnosti (Zagreb),Integrirani studij,5. godina,Umjetničko područje,Izvrsna,Materijali i procesi,2.0,5.0,20,Seminar,Seminar,10.0,3.0,1.0,2.0,10.0,10,Da
+24,Akademija likovnih umjetnosti (Zagreb),Integrirani studij,5. godina,Umjetničko područje,Izvrsna,Konzerviranje i restauriranje zidnih slika,10.0,9.0,100,Projekt,Projekt,30.0,8.0,2.0,15.0,35.0,25,Da
+24,Akademija likovnih umjetnosti (Zagreb),Integrirani studij,5. godina,Umjetničko područje,Izvrsna,Konzerviranje i restauriranje zidnih slika,10.0,9.0,100,Ispit,Ispit,60.0,9.0,4.0,8.0,45.0,50,Da
+24,Akademija likovnih umjetnosti (Zagreb),Integrirani studij,5. godina,Umjetničko područje,Izvrsna,Uvod u ikonologiju,3.0,6.0,20.0,Ispit,Ispit,20.0,6.0,4.0,3.0,8.0,18,Da
+24,Akademija likovnih umjetnosti (Zagreb),Integrirani studij,5. godina,Umjetničko područje,Izvrsna,Uvod u ikonologiju,3.0,6.0,20.0,Usmeni ispit,Usmeni ispit,,7.0,4.0,1.0,5.0,,Da
+25,Agronomski fakultet (Zagreb),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Ekonomika,6.0,6.0,60,Kolokvij,Kolokvij,40.0,6.0,4.0,10.0,20.0,35,Da
+25,Agronomski fakultet (Zagreb),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Ekonomika,6.0,6.0,60,Seminar,Seminar,60.0,6.0,6.0,4.0,12.0,60,Da
+25,Agronomski fakultet (Zagreb),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Ekologija,6.0,8.0,60,Kolokvij,Kolokvij,100.0,9.0,6.0,14.0,52.0,85,Da
+25,Agronomski fakultet (Zagreb),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Ekologija,6.0,8.0,60,Seminar,Seminar,60.0,8.0,6.0,6.0,42.0,60,Da
+25,Agronomski fakultet (Zagreb),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Ekologija,6.0,9.0,100.0,Ispit,Ispit,100.0,8.0,6.0,14.0,45.0,80,Da
+25,Agronomski fakultet (Zagreb),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Ekologija,6.0,9.0,100.0,Usmeni ispit,Usmeni ispit,,6.0,4.0,7.0,20.0,,Da
+26,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Termodinamika,8.0,10.0,100,Seminar,Seminar,1.0,4.0,3.0,2.0,8.0,1,
+26,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Termodinamika,8.0,10.0,100,Ispit,Ispit,100.0,10.0,10.0,90.0,900.0,65,Ne
+26,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Mehanički integritet konstrukcija,3.0,2.0,100,Kolokvij,Kolokvij,100.0,3.0,7.0,2.0,4.0,80,Da
+26,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Mehanički integritet konstrukcija,3.0,2.0,100,Seminar,Seminar,100.0,3.0,7.0,3.0,12.0,100,Da
+26,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Osnove automatike,4.0,7.0,100.0,Ispit,Ispit,100.0,8.0,10.0,14.0,100.0,,Da
+26,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Osnove automatike,4.0,7.0,100.0,Usmeni ispit,Usmeni ispit,,7.0,7.0,1.0,10.0,,Da
+27,Fakultet Strojarstva i Brodogradnje (Zagreb),Preddiplomski studij,4. godina,Tehničke znanosti,Dobra,Mehanika I,6.0,6.0,65,Kolokvij,Kolokvij,100.0,3.0,9.0,11.0,38.0,74,Da
+27,Fakultet Strojarstva i Brodogradnje (Zagreb),Preddiplomski studij,4. godina,Tehničke znanosti,Dobra,Mehanika I,6.0,6.0,65,Seminar,Seminar,20.0,4.0,8.0,17.0,60.0,17,Da
+27,Fakultet Strojarstva i Brodogradnje (Zagreb),Preddiplomski studij,4. godina,Tehničke znanosti,Dobra,Obrada pomoću računala,5.0,6.0,6,Projekt,Projekt,20.0,5.0,9.0,3.0,10.0,18,Da
+27,Fakultet Strojarstva i Brodogradnje (Zagreb),Preddiplomski studij,4. godina,Tehničke znanosti,Dobra,Obrada pomoću računala,5.0,6.0,6,Kolokvij,Kolokvij,20.0,7.0,5.0,6.0,23.0,11,Ne
+27,Fakultet Strojarstva i Brodogradnje (Zagreb),Preddiplomski studij,4. godina,Tehničke znanosti,Dobra,Elementi konstrukcija I,6.0,8.0,60.0,Ispit,Ispit,100.0,8.0,6.0,31.0,170.0,60,Ne
+27,Fakultet Strojarstva i Brodogradnje (Zagreb),Preddiplomski studij,4. godina,Tehničke znanosti,Dobra,Elementi konstrukcija I,6.0,8.0,60.0,Usmeni ispit,Usmeni ispit,,9.0,6.0,29.0,184.0,,Ne
+28,Sveučilište Algebra Bernays,Preddiplomski studij,3. godina,Društvene znanosti,Vrlo dobra,eCommerce,6.0,5.0,100,Projekt,Projekt,18.0,6.0,4.0,10.0,15.0,8,Da
+28,Sveučilište Algebra Bernays,Preddiplomski studij,3. godina,Društvene znanosti,Vrlo dobra,eCommerce,6.0,5.0,100,Ispit,Ispit,72.0,4.0,5.0,1.0,3.0,66,Da
+28,Sveučilište Algebra Bernays,Preddiplomski studij,3. godina,Društvene znanosti,Vrlo dobra,Multimedia Content management and creation,4.0,6.0,100,Projekt,Projekt,40.0,7.0,4.0,5.0,20.0,38,Da
+28,Sveučilište Algebra Bernays,Preddiplomski studij,3. godina,Društvene znanosti,Vrlo dobra,Multimedia Content management and creation,4.0,6.0,100,Zadaće,Zadaće,30.0,4.0,3.0,6.0,6.0,25,Da
+28,Sveučilište Algebra Bernays,Preddiplomski studij,3. godina,Društvene znanosti,Vrlo dobra,Social Networks,6.0,7.0,69.0,Ispit,Ispit,69.0,7.0,4.0,4.0,7.0,52,Da
+29,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Uvod u umjetnu inteligenciju ,6.0,2.0,100,Kolokvij,Kolokvij,20.0,2.0,4.0,1.0,2.0,20,Da
+29,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Uvod u umjetnu inteligenciju ,6.0,2.0,100,Projekt,Projekt,40.0,6.0,4.0,2.0,20.0,40,Da
+29,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Digitalni marketing ,4.0,7.0,100,Projekt,Projekt,30.0,10.0,3.0,7.0,40.0,28,Da
+29,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Digitalni marketing ,4.0,7.0,100,Kolokvij,Kolokvij,30.0,5.0,4.0,1.0,8.0,22,Da
+29,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Osnove web tehnologija,5.0,10.0,100.0,Ispit,Ispit,100.0,10.0,1.0,8.0,50.0,70,Da
+29,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Osnove web tehnologija,5.0,10.0,100.0,Usmeni ispit,Usmeni ispit,,1.0,8.0,1.0,2.0,,Da
+30,Učiteljski fakultet (Zagreb),Diplomski studij,5. godina,Društvene znanosti,Vrlo dobra,Metodika hrvatskog jezika 3 ,4.0,7.0,60,Seminar,Seminar,30.0,5.0,8.0,3.0,20.0,15,Nije primjenjivo
+30,Učiteljski fakultet (Zagreb),Diplomski studij,5. godina,Društvene znanosti,Vrlo dobra,Metodika hrvatskog jezika 3 ,4.0,7.0,60,Usmeni ispit,Usmeni ispit,70.0,8.0,6.0,5.0,40.0,65,Da
+30,Učiteljski fakultet (Zagreb),Diplomski studij,5. godina,Društvene znanosti,Vrlo dobra,Metodika matematike 3,4.0,8.0,100,Individualan sat u školi,Individualan sat u školi,20.0,6.0,10.0,2.0,10.0,20,Da
+30,Učiteljski fakultet (Zagreb),Diplomski studij,5. godina,Društvene znanosti,Vrlo dobra,Metodika matematike 3,4.0,8.0,100,Javni sat,Javni sat,20.0,6.0,10.0,3.0,15.0,20,Da
+30,Učiteljski fakultet (Zagreb),Diplomski studij,5. godina,Društvene znanosti,Vrlo dobra,Primjenjena lingvistika,3.0,8.0,60.0,Ispit,Ispit,60.0,8.0,4.0,6.0,40.0,55,Da
+31,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Baze podataka 1,6.0,6.0,91,Kolokvij,Kolokvij,20.0,7.0,4.0,14.0,40.0,20,Da
+31,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Baze podataka 1,6.0,6.0,91,Projekt,Projekt,20.0,6.0,4.0,7.0,15.0,19,Da
+31,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Uvod u umjetnu inteligenciju,6.0,7.0,90,Kolokvij,Kolokvij,20.0,7.0,5.0,10.0,24.0,20,Da
+31,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Uvod u umjetnu inteligenciju,6.0,7.0,90,Projekt,Projekt,40.0,8.0,6.0,10.0,30.0,40,Da
+31,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Operacijska istraživanja,4.0,7.0,100.0,Ispit,Ispit,100.0,7.0,7.0,10.0,24.0,85,Da
+31,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Prirodne znanosti,Dobra,Operacijska istraživanja,4.0,7.0,100.0,Usmeni ispit,Usmeni ispit,,8.0,8.0,2.0,3.0,,Da
+32,Ekonomski fakultet (Zagreb),Integrirani studij,3. godina,Društvene znanosti,Dobra,Strateški menadžment,6.0,8.0,100,Kolokvij,Kolokvij,30.0,7.0,5.0,8.0,67.0,25,Da
+32,Ekonomski fakultet (Zagreb),Integrirani studij,3. godina,Društvene znanosti,Dobra,Strateški menadžment,6.0,8.0,100,Projekt,Projekt,15.0,10.0,2.0,10.0,50.0,15,Da
+32,Ekonomski fakultet (Zagreb),Integrirani studij,3. godina,Društvene znanosti,Dobra,Gospodarstvo Hrvatske,6.0,9.0,75,Kolokvij,Kolokvij,75.0,10.0,5.0,20.0,82.0,42,Da
+32,Ekonomski fakultet (Zagreb),Integrirani studij,3. godina,Društvene znanosti,Dobra,Gospodarstvo Hrvatske,6.0,9.0,75,Seminar,Seminar,4.0,3.0,3.0,4.0,8.0,4,Da
+32,Ekonomski fakultet (Zagreb),Integrirani studij,3. godina,Društvene znanosti,Dobra,Matatika,9.0,10.0,80.0,Ispit,Ispit,80.0,10.0,2.0,40.0,150.0,41,Ne
+33,Zdravstveno veleučilište,Diplomski studij,5. godina,Biomedicina i zdravstvo,Vrlo dobra,Fizioterapijska procjena,7.0,8.0,100,Ispit,Ispit,100.0,8.0,6.0,10.0,50.0,90,Da
+33,Zdravstveno veleučilište,Diplomski studij,5. godina,Biomedicina i zdravstvo,Vrlo dobra,Fizioterapijska procjena,7.0,8.0,100,Usmeni ispit,Usmeni ispit,5.0,9.0,7.0,14.0,70.0,4,Ne
+33,Zdravstveno veleučilište,Diplomski studij,5. godina,Biomedicina i zdravstvo,Vrlo dobra,Razvojna psihologija,2.0,5.0,100,Ispit,Ispit,50.0,6.0,7.0,4.0,20.0,40,Da
+33,Zdravstveno veleučilište,Diplomski studij,5. godina,Biomedicina i zdravstvo,Vrlo dobra,Razvojna psihologija,2.0,5.0,100,Seminar,Seminar,100.0,4.0,7.0,2.0,12.0,100,Da
+33,Zdravstveno veleučilište,Diplomski studij,5. godina,Biomedicina i zdravstvo,Vrlo dobra,Primijenjena biomehanika,5.0,8.0,100.0,Ispit,Ispit,100.0,9.0,4.0,8.0,42.0,80,Da
+33,Zdravstveno veleučilište,Diplomski studij,5. godina,Biomedicina i zdravstvo,Vrlo dobra,Primijenjena biomehanika,5.0,8.0,100.0,Usmeni ispit,Usmeni ispit,,9.0,3.0,10.0,60.0,,Da
+34,Fakultet organizacije i informatike (Varaždin),Diplomski studij,6. godina,Tehničke znanosti,Dobra,Statistika i vjerojatnost,5.0,4.0,100,Kolokvij,Kolokvij,30.0,4.0,6.0,3.0,10.0,25,Da
+34,Fakultet organizacije i informatike (Varaždin),Diplomski studij,6. godina,Tehničke znanosti,Dobra,Statistika i vjerojatnost,5.0,4.0,100,Projekt,Projekt,30.0,9.0,5.0,10.0,30.0,20,Da
+34,Fakultet organizacije i informatike (Varaždin),Diplomski studij,6. godina,Tehničke znanosti,Dobra,Programsko injzenerstvo,6.0,7.0,100,Kolokvij,Kolokvij,50.0,7.0,5.0,7.0,15.0,35,Ne
+34,Fakultet organizacije i informatike (Varaždin),Diplomski studij,6. godina,Tehničke znanosti,Dobra,Programsko injzenerstvo,6.0,7.0,100,Projekt,Projekt,50.0,7.0,4.0,20.0,50.0,40,Da
+35,Filozofski fakultet u Splitu,Integrirani studij,5. godina,Humanističke znanosti,Vrlo dobra,Školska pedagogija,2.0,2.0,93,Seminar,Seminar,100.0,2.0,8.0,1.0,4.0,100,Da
+35,Filozofski fakultet u Splitu,Integrirani studij,5. godina,Humanističke znanosti,Vrlo dobra,Školska pedagogija,2.0,2.0,93,Kolokvij,Kolokvij,100.0,3.0,7.0,2.0,4.0,95,Da
+35,Filozofski fakultet u Splitu,Integrirani studij,5. godina,Humanističke znanosti,Vrlo dobra,Geografija,5.0,10.0,100,Seminar,Seminar,100.0,2.0,9.0,1.0,2.0,100,Da
+35,Filozofski fakultet u Splitu,Integrirani studij,5. godina,Humanističke znanosti,Vrlo dobra,Geografija,5.0,10.0,100,Ispit,Ispit,100.0,10.0,1.0,30.0,100.0,52,Ne
+35,Filozofski fakultet u Splitu,Integrirani studij,5. godina,Humanističke znanosti,Vrlo dobra,Metodika nastave prirode i dryštva,5.0,6.0,100.0,Ispit,Ispit,100.0,6.0,4.0,3.0,8.0,80,Da
+35,Filozofski fakultet u Splitu,Integrirani studij,5. godina,Humanističke znanosti,Vrlo dobra,Metodika nastave prirode i dryštva,5.0,6.0,100.0,Usmeni ispit,Usmeni ispit,,5.0,5.0,3.0,8.0,,Da
+36,Ekonomski fakultet (Zagreb),Integrirani studij,6. godina,Društvene znanosti,Vrlo dobra,Računovodstvo 2,6.0,6.0,60,Ispit,Ispit,60.0,7.0,2.0,10.0,60.0,45,Da
+36,Ekonomski fakultet (Zagreb),Integrirani studij,6. godina,Društvene znanosti,Vrlo dobra,Računovodstvo 2,6.0,6.0,60,"Nije bilo vise obaveza, nisam isla na kolokvij samo mi je bio ispit","Nije bilo vise obaveza, nisam isla na kolokvij samo mi je bio ispit",0.0,1.0,1.0,1.0,1.0,0,Nije primjenjivo
+36,Ekonomski fakultet (Zagreb),Integrirani studij,6. godina,Društvene znanosti,Vrlo dobra,Monetarna politika,6.0,8.0,100,Kolokvij,Kolokvij,50.0,9.0,1.0,10.0,70.0,35,Da
+36,Ekonomski fakultet (Zagreb),Integrirani studij,6. godina,Društvene znanosti,Vrlo dobra,Monetarna politika,6.0,8.0,100,Ppt za dodatne bodove al nisam ga radila,Ppt za dodatne bodove al nisam ga radila,10.0,2.0,2.0,1.0,4.0,0,Nije primjenjivo
+36,Ekonomski fakultet (Zagreb),Integrirani studij,6. godina,Društvene znanosti,Vrlo dobra,Matematika,9.0,9.0,100.0,Ispit,Ispit,10.0,9.0,2.0,20.0,120.0,60,Da
+37,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Vrlo dobra,Matematika 1,5.0,7.0,"49,5",Kolokvij,Kolokvij,20.0,7.0,2.0,3.0,60.0,"9,81",Da
+37,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Vrlo dobra,Matematika 1,5.0,7.0,"49,5",Kolokvij,Kolokvij,20.0,8.0,1.0,4.0,60.0,12,Da
+37,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Vrlo dobra,Engleski jezik,3.0,1.0,73,Kolokvij,Kolokvij,30.0,1.0,10.0,1.0,3.0,24,Da
+37,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Vrlo dobra,Engleski jezik,3.0,1.0,73,Zadaće,Zadaće,5.0,1.0,10.0,1.0,1.0,5,Da
+37,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Vrlo dobra,Organizacija,6.0,4.0,60.0,Ispit,Ispit,100.0,6.0,3.0,3.0,30.0,60,Da
+37,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Vrlo dobra,Organizacija,6.0,4.0,60.0,Usmeni ispit,Usmeni ispit,,8.0,7.0,3.0,30.0,,Da
+38,Pravni fakultet (Zagreb),Diplomski studij,4. godina,Humanističke znanosti,Dobra,Opća povijest prava i države,8.0,7.0,8,Kolokvij,Kolokvij,30.0,7.0,8.0,10.0,35.0,26,Da
+38,Pravni fakultet (Zagreb),Diplomski studij,4. godina,Humanističke znanosti,Dobra,Opća povijest prava i države,8.0,7.0,8,Usmeni ispit,Usmeni ispit,30.0,9.0,6.0,5.0,25.0,16,Da
+38,Pravni fakultet (Zagreb),Diplomski studij,4. godina,Humanističke znanosti,Dobra,Kazneno pravo,8.0,7.0,39,Ispit,Ispit,30.0,7.0,9.0,11.0,55.0,30,Da
+38,Pravni fakultet (Zagreb),Diplomski studij,4. godina,Humanističke znanosti,Dobra,Kazneno pravo,8.0,7.0,39,Usmeni ispit,Usmeni ispit,100.0,9.0,9.0,11.0,55.0,70,Da
+38,Pravni fakultet (Zagreb),Diplomski studij,4. godina,Humanističke znanosti,Dobra,Kazneno procesno pravo,8.0,8.0,100.0,Ispit,Ispit,100.0,9.0,8.0,14.0,65.0,65,Ne
+38,Pravni fakultet (Zagreb),Diplomski studij,4. godina,Humanističke znanosti,Dobra,Kazneno procesno pravo,8.0,8.0,100.0,Usmeni ispit,Usmeni ispit,,9.0,7.0,14.0,66.0,,Da
+39,Fakultet zdravstvenih studija (Rijeka),Preddiplomski studij,2. godina,Biomedicina i zdravstvo,Izvrsna,Primaljska njega u porodu II,11.0,9.0,89,Seminar,Seminar,10.0,5.0,8.0,4.0,24.0,10,Da
+39,Fakultet zdravstvenih studija (Rijeka),Preddiplomski studij,2. godina,Biomedicina i zdravstvo,Izvrsna,Primaljska njega u porodu II,11.0,9.0,89,Kolokvij,Kolokvij,20.0,8.0,6.0,3.0,18.0,16,Da
+39,Fakultet zdravstvenih studija (Rijeka),Preddiplomski studij,2. godina,Biomedicina i zdravstvo,Izvrsna,Etika u primaljstvu,1.0,8.0,80,Kolokvij,Kolokvij,25.0,2.0,5.0,1.0,2.0,25,Da
+39,Fakultet zdravstvenih studija (Rijeka),Preddiplomski studij,2. godina,Biomedicina i zdravstvo,Izvrsna,Etika u primaljstvu,1.0,8.0,80,Ispit,Ispit,50.0,7.0,6.0,1.0,4.0,37,Da
+39,Fakultet zdravstvenih studija (Rijeka),Preddiplomski studij,2. godina,Biomedicina i zdravstvo,Izvrsna,Laktacija i dojenje,3.0,8.0,92.0,Ispit,Ispit,20.0,8.0,4.0,5.0,20.0,17,Da
+39,Fakultet zdravstvenih studija (Rijeka),Preddiplomski studij,2. godina,Biomedicina i zdravstvo,Izvrsna,Laktacija i dojenje,3.0,8.0,92.0,Usmeni ispit,Usmeni ispit,,9.0,7.0,5.0,20.0,,Da
+40,Ekonomski fakultet (Zagreb),Stručni studij,1. godina,Društvene znanosti,Dobra,Osnove hrvatskog gospodarstva,6.0,5.0,50,Ništa,Ništa,0.0,1.0,5.0,1.0,10.0,28,Nije primjenjivo
+40,Ekonomski fakultet (Zagreb),Stručni studij,1. godina,Društvene znanosti,Dobra,Osnove hrvatskog gospodarstva,6.0,5.0,50,Kolokvij,Kolokvij,50.0,5.0,6.0,2.0,10.0,28,Da
+40,Ekonomski fakultet (Zagreb),Stručni studij,1. godina,Društvene znanosti,Dobra,Njemački jezik u poslovanju 1,3.0,4.0,88,Kolokvij,Kolokvij,100.0,5.0,7.0,3.0,25.0,88,Da
+40,Ekonomski fakultet (Zagreb),Stručni studij,1. godina,Društvene znanosti,Dobra,Njemački jezik u poslovanju 1,3.0,4.0,88,Ništa,Ništa,0.0,1.0,1.0,0.0,0.0,0,Nije primjenjivo
+40,Ekonomski fakultet (Zagreb),Stručni studij,1. godina,Društvene znanosti,Dobra,Gospodarska matematika,6.0,8.0,50.0,Ispit,Ispit,50.0,8.0,3.0,3.0,20.0,28,Da
+41,Prirodoslovno-matematički fakultet (Zagreb),Preddiplomski studij,3. godina,Ostalo,Dobra,Uvod u matematiku,10.0,9.0,100,Kolokvij,Kolokvij,50.0,8.0,8.0,8.0,35.0,60,Da
+41,Prirodoslovno-matematički fakultet (Zagreb),Preddiplomski studij,3. godina,Ostalo,Dobra,Uvod u matematiku,10.0,9.0,100,Kolokvij,Kolokvij,50.0,10.0,7.0,10.0,40.0,50,Da
+41,Prirodoslovno-matematički fakultet (Zagreb),Preddiplomski studij,3. godina,Ostalo,Dobra,Peihologija 1,3.0,1.0,100,Kolokvij,Kolokvij,50.0,4.0,8.0,2.0,8.0,30,Da
+41,Prirodoslovno-matematički fakultet (Zagreb),Preddiplomski studij,3. godina,Ostalo,Dobra,Peihologija 1,3.0,1.0,100,Kolokvij,Kolokvij,50.0,3.0,7.0,2.0,8.0,40,Da
+41,Prirodoslovno-matematički fakultet (Zagreb),Preddiplomski studij,3. godina,Ostalo,Dobra,Kosnstruktivne metode u geometriji,7.0,8.0,80.0,Ispit,Ispit,80.0,9.0,4.0,15.0,60.0,45,Ne
+41,Prirodoslovno-matematički fakultet (Zagreb),Preddiplomski studij,3. godina,Ostalo,Dobra,Kosnstruktivne metode u geometriji,7.0,8.0,80.0,Usmeni ispit,Usmeni ispit,,8.0,4.0,4.0,15.0,,Da
+42,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Vrlo dobra,Termodinamika Materijala,9.0,8.0,30,Kolokvij,Kolokvij,30.0,10.0,4.0,30.0,300.0,30,Da
+42,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Vrlo dobra,Termodinamika Materijala,9.0,8.0,30,Usmeni ispit,Usmeni ispit,30.0,7.0,4.0,15.0,75.0,75,Da
+42,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Vrlo dobra,Numericke Metode u Strojarstvu ,7.0,10.0,100,Kolokvij,Kolokvij,100.0,10.0,2.0,20.0,100.0,80,Ne
+42,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Vrlo dobra,Numericke Metode u Strojarstvu ,7.0,10.0,100,Seminar,Seminar,50.0,7.0,2.0,7.0,35.0,50,Ne
+42,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Vrlo dobra,Nauka o Cvrstoci,6.0,6.0,100.0,Ispit,Ispit,100.0,7.0,7.0,10.0,45.0,60,Da
+42,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Vrlo dobra,Nauka o Cvrstoci,6.0,6.0,100.0,Usmeni ispit,Usmeni ispit,,7.0,4.0,5.0,30.0,,Da
+43,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,5. godina,Prirodne znanosti,Dobra,Statistički praktikum 1,5.0,5.0,100,Kolokvij,Kolokvij,35.0,6.0,5.0,4.0,20.0,6,Ne
+43,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,5. godina,Prirodne znanosti,Dobra,Statistički praktikum 1,5.0,5.0,100,Seminar,Seminar,50.0,5.0,5.0,3.0,10.0,40,Da
+43,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,5. godina,Prirodne znanosti,Dobra,Markovljevi lanci,5.0,7.0,100,Kolokvij,Kolokvij,100.0,8.0,3.0,10.0,50.0,12,Ne
+43,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,5. godina,Prirodne znanosti,Dobra,Markovljevi lanci,5.0,7.0,100,Mini test,Mini test,20.0,6.0,2.0,5.0,15.0,3,Da
+44,Sveučilište Sjever,Diplomski studij,5. godina,Biomedicina i zdravstvo,Dobra,Menadžment u sestrinstvu,8.0,7.0,100,Kolokvij,Kolokvij,50.0,8.0,6.0,7.0,50.0,50,Da
+44,Sveučilište Sjever,Diplomski studij,5. godina,Biomedicina i zdravstvo,Dobra,Menadžment u sestrinstvu,8.0,7.0,100,Seminar,Seminar,50.0,5.0,8.0,5.0,20.0,50,Da
+44,Sveučilište Sjever,Diplomski studij,5. godina,Biomedicina i zdravstvo,Dobra,Osnove u sestrinstvu,10.0,8.0,100,Kolokvij,Kolokvij,100.0,8.0,8.0,5.0,20.0,50,Da
+44,Sveučilište Sjever,Diplomski studij,5. godina,Biomedicina i zdravstvo,Dobra,Osnove u sestrinstvu,10.0,8.0,100,Ispit,Ispit,50.0,8.0,8.0,10.0,50.0,50,Da
+44,Sveučilište Sjever,Diplomski studij,5. godina,Biomedicina i zdravstvo,Dobra,Osnove statistike,9.0,8.0,100.0,Ispit,Ispit,50.0,8.0,8.0,6.0,20.0,50,Da
+44,Sveučilište Sjever,Diplomski studij,5. godina,Biomedicina i zdravstvo,Dobra,Osnove statistike,9.0,8.0,100.0,Usmeni ispit,Usmeni ispit,,8.0,8.0,8.0,30.0,,Da
+45,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Upravljanje znanjem,4.0,4.0,100,Kolokvij,Kolokvij,20.0,5.0,3.0,1.0,8.0,11,Da
+45,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Upravljanje znanjem,4.0,4.0,100,Projekt,Projekt,40.0,4.0,6.0,1.0,10.0,30,Da
+45,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Primjena umjetne inteligencije u poslovanju,6.0,8.0,100,Projekt,Projekt,40.0,10.0,2.0,10.0,60.0,40,Da
+45,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Primjena umjetne inteligencije u poslovanju,6.0,8.0,100,Kolokvij,Kolokvij,20.0,6.0,2.0,2.0,15.0,16,Da
+45,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Osnove web tehnologija ,6.0,8.0,100.0,Ispit,Ispit,100.0,9.0,1.0,7.0,60.0,70,Da
+45,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Osnove web tehnologija ,6.0,8.0,100.0,Usmeni ispit,Usmeni ispit,,1.0,9.0,1.0,5.0,,Da
+46,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Društvene znanosti,Dobra,Informacijski i računalni sustavi,8.0,7.0,63,Kolokvij,Kolokvij,35.0,6.0,8.0,5.0,30.0,26,Da
+46,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Društvene znanosti,Dobra,Informacijski i računalni sustavi,8.0,7.0,63,Mini test,Mini test,25.0,4.0,7.0,4.0,20.0,14,Ne
+46,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Društvene znanosti,Dobra,Poslovna komunikacija,3.0,1.0,91,Kolokvij,Kolokvij,45.0,2.0,9.0,1.0,3.0,45,Da
+46,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Društvene znanosti,Dobra,Poslovna komunikacija,3.0,1.0,91,Seminar,izrada prezentacije,8.0,2.0,7.0,2.0,5.0,6,Da
+46,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Društvene znanosti,Dobra,Programiranje 1,6.0,6.0,25.0,Ispit,Ispit,4.0,4.0,8.0,14.0,70.0,25,Ne
+47,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Informacijski i računalni sustavi,8.0,7.0,65,Kolokvij,Kolokvij,40.0,8.0,5.0,5.0,30.0,20,Da
+47,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Informacijski i računalni sustavi,8.0,7.0,65,Projekt,Projekt,20.0,7.0,6.0,3.0,20.0,20,Da
+47,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Poslovno komuniciranje,3.0,9.0,60,Kolokvij,Kolokvij,40.0,8.0,5.0,3.0,20.0,60,Da
+47,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Poslovno komuniciranje,3.0,9.0,60,Projekt,Projekt,20.0,6.0,5.0,2.0,12.0,20,Da
+47,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Matematika 1,5.0,8.0,80.0,Ispit,Ispit,100.0,7.0,6.0,20.0,180.0,80,Da
+47,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Matematika 1,5.0,8.0,80.0,Usmeni ispit,Usmeni ispit,,9.0,7.0,20.0,180.0,,Ne
+48,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Dobra,Organizacija,5.0,6.0,56,Kolokvij,Kolokvij,30.0,5.0,6.0,3.0,9.0,15,Da
+48,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Dobra,Organizacija,5.0,6.0,56,Projekt,Projekt,45.0,7.0,5.0,10.0,25.0,40,Da
+48,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Dobra,Informacijski i računalni sustavi,8.0,9.0,52,Kolokvij,Kolokvij,14.0,9.0,4.0,5.0,15.0,8,Da
+48,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Dobra,Informacijski i računalni sustavi,8.0,9.0,52,Labos,Labos,10.0,7.0,6.0,2.0,6.0,6,Da
+48,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Dobra,Programiranje 1,6.0,9.0,50.0,Ispit,Ispit,100.0,9.0,5.0,10.0,30.0,50,Ne
+48,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Dobra,Programiranje 1,6.0,9.0,50.0,Usmeni ispit,Usmeni ispit,,1.0,1.0,0.0,0.0,,Nije primjenjivo
+49,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Dobra,Programsko Inženjerstvo,6.0,7.0,60,Kolokvij,Kolokvij,50.0,8.0,7.0,8.0,24.0,30,Da
+49,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Dobra,Programsko Inženjerstvo,6.0,7.0,60,Projekt,Projekt,50.0,7.0,8.0,10.0,40.0,29,Ne
+49,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Dobra,Upravljanje informatičkim uslugama,4.0,4.0,76,Projekt,Projekt,50.0,3.0,7.0,15.0,45.0,37,Da
+49,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Dobra,Upravljanje informatičkim uslugama,4.0,4.0,76,Kolokvij,Kolokvij,40.0,5.0,5.0,5.0,20.0,28,Da
+49,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Dobra,Matematika 2,6.0,8.0,58.0,Ispit,Ispit,100.0,8.0,4.0,24.0,98.0,58,Ne
+49,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Dobra,Matematika 2,6.0,8.0,58.0,Usmeni ispit,Usmeni ispit,,10.0,3.0,9.0,44.0,,Ne
+50,Filozofski fakultet (Zagreb),Diplomski studij,4. godina,Humanističke znanosti,Dobra,Opća lingvistika,5.0,3.0,100,Ispit,Ispit,100.0,10.0,6.0,90.0,600.0,60,Ne
+50,Filozofski fakultet (Zagreb),Diplomski studij,4. godina,Humanističke znanosti,Dobra,Opća lingvistika,5.0,3.0,100,Seminar,Seminar,10.0,9.0,3.0,30.0,100.0,60,Ne
+50,Filozofski fakultet (Zagreb),Diplomski studij,4. godina,Humanističke znanosti,Dobra,Jezična vježbe,4.0,7.0,100,Ispit,Ispit,100.0,7.0,5.0,60.0,200.0,60,Ne
+50,Filozofski fakultet (Zagreb),Diplomski studij,4. godina,Humanističke znanosti,Dobra,Jezična vježbe,4.0,7.0,100,Kolokvij,Kolokvij,100.0,5.0,5.0,20.0,80.0,60,Da
+50,Filozofski fakultet (Zagreb),Diplomski studij,4. godina,Humanističke znanosti,Dobra,Fonologija,5.0,10.0,100.0,Ispit,Ispit,100.0,10.0,6.0,90.0,400.0,60,Ne
+50,Filozofski fakultet (Zagreb),Diplomski studij,4. godina,Humanističke znanosti,Dobra,Fonologija,5.0,10.0,100.0,Usmeni ispit,Usmeni ispit,,9.0,7.0,90.0,400.0,,Ne
+51,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,6. godina,Tehničke znanosti,Vrlo dobra,Mehanika 2,5.0,5.0,93,Kolokvij,Kolokvij,100.0,3.0,2.0,3.0,10.0,93,Da
+51,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,6. godina,Tehničke znanosti,Vrlo dobra,Mehanika 2,5.0,5.0,93,Kolokvij,Kolokvij,100.0,3.0,1.0,2.0,8.0,95,Da
+51,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,6. godina,Tehničke znanosti,Vrlo dobra,Termodinamika,7.0,9.0,24,Ispit,Ispit,24.0,8.0,1.0,60.0,360.0,20,Ne
+51,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,6. godina,Tehničke znanosti,Vrlo dobra,Termodinamika,7.0,9.0,24,Usmeni ispit,Usmeni ispit,24.0,9.0,1.0,14.0,84.0,19,Ne
+51,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,6. godina,Tehničke znanosti,Vrlo dobra,Teorija vibracija,5.0,3.0,100.0,Ispit,Ispit,100.0,4.0,1.0,5.0,40.0,100,Da
+51,Fakultet strojarstva i brodogradnje (Zagreb),Diplomski studij,6. godina,Tehničke znanosti,Vrlo dobra,Teorija vibracija,5.0,3.0,100.0,Usmeni ispit,Usmeni ispit,,1.0,1.0,0.0,0.0,,Da
+52,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Vrlo dobra,Matematičke metode za informatičare,7,7,100,Mini test,Mini test,1.0,1,1,1,1.0,1.0,Nije primjenjivo
+52,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Vrlo dobra,Matematičke metode za informatičare,7,7,100,Kolokvij,Kolokvij,30.0,4,5,5,20.0,20.0,Da
+52,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Vrlo dobra,Strukture podataka i algoritmi,6,8,100,Seminar,Seminar,30.0,3,3,3,9.0,25.0,Nije primjenjivo
+52,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Vrlo dobra,Strukture podataka i algoritmi,6,8,100,Ispit,Ispit,100.0,7,2,20,60.0,50.0,Da
+52,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,2. godina,Tehničke znanosti,Vrlo dobra,Upravljanje znanjem,4,5,100,Ispit,Ispit,100.0,6,1,8,24.0,70.0,Ne
+53,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,4. godina,Tehničke znanosti,Dobra,Tehnicki engleski jezik,3,3,100,Kolokvij,Kolokvij,45.0,2,5,1,2.0,,Da
+53,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,4. godina,Tehničke znanosti,Dobra,Tehnicki engleski jezik,3,3,100,Mini test,Mini test,5.0,2,9,1,3.0,5.0,Da
+53,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,4. godina,Tehničke znanosti,Dobra,Računalna i inženjerska grafika,5,4,100,Kolokvij,Kolokvij,100.0,3,8,2,8.5,84.0,Da
+53,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,4. godina,Tehničke znanosti,Dobra,Računalna i inženjerska grafika,5,4,100,Mini test,Mini test,10.0,3,9,1,3.0,8.0,Da
+53,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,4. godina,Tehničke znanosti,Dobra,Metoda konacnih elemenata,5,3,100,Ispit,Ispit,100.0,2,9,2,9.0,74.0,Da
+53,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,4. godina,Tehničke znanosti,Dobra,Metoda konacnih elemenata,5,3,100,Usmeni ispit,Usmeni ispit,,1,10,1,5.0,,Da
+54,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,5. godina,Prirodne znanosti,Dobra,Matematička statistika,5,2,100,Kolokvij,Kolokvij,50.0,2,1,1,10.0,46.0,Da
+54,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,5. godina,Prirodne znanosti,Dobra,Matematička statistika,5,2,100,Kolokvij,Kolokvij,50.0,2,1,1,10.0,20.0,Da
+54,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,5. godina,Prirodne znanosti,Dobra,Računarska statistika,5,1,100,Kolokvij,Kolokvij,45.0,1,1,2,12.0,40.0,Da
+54,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,5. godina,Prirodne znanosti,Dobra,Računarska statistika,5,1,100,Kolokvij,Kolokvij,45.0,1,1,1,12.0,40.0,Da
+54,Prirodoslovno-matematički fakultet (Zagreb),Diplomski studij,5. godina,Prirodne znanosti,Dobra,Napredne baze podataka,5,1,100,Ispit,Ispit,100.0,1,2,3,12.0,80.0,Da
+55,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Uvod u modeliranje znanja,6,5,100,Seminar,Seminar,15,4,6,3,15,,
+55,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Uvod u modeliranje znanja,6,5,100,Zadaće,Zadaće,2,2,5,0.5,2,,
+55,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Matematika 2,6,7,100,Mini test,Mini test,1,3,7,0.5,1,,
+55,Fakultet organizacije i informatike (Varaždin),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Matematika 2,6,7,100,Zadaće,Zadaće,10,4,6,1,8,,
+56,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,4. godina,Tehničke znanosti,Dobra,Tehnologike umrežavanja,5,5,100,Mini test,Mini test,2,2,3,2,1.5,,
+56,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,4. godina,Tehničke znanosti,Dobra,Tehnologike umrežavanja,5,5,100,Zadaće,Zadaće,2,2,2,3,2,,
+56,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,4. godina,Tehničke znanosti,Dobra,Računalno upravljanje sustavima,5,5,100,Labos,Labos,5,4,6,2,5,,
+56,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,4. godina,Tehničke znanosti,Dobra,Računalno upravljanje sustavima,5,5,100,Zadaće,Zadaće,3,3,6,3,3,,
+57,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Lokomocija robota,5,4,100,Mini test,Mini test,4,2,5,1,4,,
+57,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Lokomocija robota,5,4,100,Zadaće,Zadaće,2,2,4,1,2,,
+57,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Zračna robotika,5,5,100,Mini test,Mini test,5,3,3,3,4,,
+57,Fakultet elektrotehnike i računarstva (Zagreb),Diplomski studij,5. godina,Tehničke znanosti,Dobra,Zračna robotika,5,5,100,Labos,Labos,5,5,5,4,4,,
+58,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Elektrotehnika i električni strojevi,5,7,100,Labos,Labos,100,8,7,4,100,,
+58,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Elektrotehnika i električni strojevi,5,7,100,Mini test,Mini test,30,7,5,16,42,,
+58,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Dinamika i izdržljivost brodskih konstrukcija,3,2,100,Labos,Labos,100,3,9,3,50,,
+58,Fakultet strojarstva i brodogradnje (Zagreb),Preddiplomski studij,3. godina,Tehničke znanosti,Dobra,Dinamika i izdržljivost brodskih konstrukcija,3,2,100,Mini test,Mini test,10,7,6,10,10,,
+59,Filozofski fakultet (Zagreb),Diplomski studij,5. godina,Društvene znanosti,Vrlo dobra,Psihologija korisničkog iskustva,4,2,100,Seminar,Seminar,80,2,5,2,79,,
+59,Filozofski fakultet (Zagreb),Diplomski studij,5. godina,Društvene znanosti,Vrlo dobra,Psihologija korisničkog iskustva,4,2,100,Mini test,Mini test,10,1,5,1,10,,
+59,Filozofski fakultet (Zagreb),Diplomski studij,5. godina,Društvene znanosti,Vrlo dobra,Psihologija potrošačkog ponašanja,4,7,100,Mini test,Mini test,10,2,8,2,10,,
+59,Filozofski fakultet (Zagreb),Diplomski studij,5. godina,Društvene znanosti,Vrlo dobra,Psihologija potrošačkog ponašanja,4,7,100,Seminar,Seminar,60,4,9,2,60,,
+60,Zdravstveno veleučilište,Diplomski studij,5. godina,Biomedicina i zdravstvo,Vrlo dobra,Bioetika,2,3,50,Mini test,Mini test,10,3,6,8,8,,
+60,Zdravstveno veleučilište,Diplomski studij,5. godina,Biomedicina i zdravstvo,Vrlo dobra,Bioetika,2,3,50,Seminar,Seminar,10,6,6,10,10,,
+60,Zdravstveno veleučilište,Diplomski studij,5. godina,Biomedicina i zdravstvo,Vrlo dobra,Fizikalni čimbenici u terapiji,3,5,50,Seminar,Seminar,10,7,4,12,10,,
+60,Zdravstveno veleučilište,Diplomski studij,5. godina,Biomedicina i zdravstvo,Vrlo dobra,Fizikalni čimbenici u terapiji,3,5,50,Mini test,Mini test,10,6,4,10,8,,

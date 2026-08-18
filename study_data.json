@@ -1,0 +1,80 @@
+{
+  "availability": {
+    "monday": 5.0,
+    "tuesday": 5.0,
+    "wednesday": 5.0,
+    "thursday": 5.0,
+    "friday": 5.0,
+    "saturday": 3.0,
+    "sunday": 3.0
+  },
+  "exceptions": {
+    "2026-07-28": {
+      "hours": 0.0,
+      "reason": ""
+    },
+    "2026-07-31": {
+      "hours": 0.0,
+      "reason": "rodendan"
+    }
+  },
+  "courses": [
+    {
+      "name": "Otkrivanje znanja u podacima",
+      "course_difficulty": 5,
+      "total_points": 100,
+      "ects": 6,
+      "responsibilities": [
+        {
+          "name": "Kolokvij 1",
+          "task_type": "kolokvij",
+          "max_points": 30.0,
+          "deadline": "2026-08-19",
+          "task_difficulty": 8,
+          "confidence": 4,
+          "note": "",
+          "created_date": "2026-07-21"
+        },
+        {
+          "name": "Blic",
+          "task_type": "mini test",
+          "max_points": 2.0,
+          "deadline": "2026-08-17",
+          "task_difficulty": 2,
+          "confidence": 5,
+          "note": "",
+          "created_date": "2026-08-03"
+        }
+      ]
+    },
+    {
+      "name": "Uvod u umjetnu inteligenciju",
+      "course_difficulty": 5,
+      "total_points": 100,
+      "ects": 7,
+      "responsibilities": [
+        {
+          "name": "Kol",
+          "task_type": "kolokvij",
+          "max_points": 10,
+          "deadline": "2026-08-21",
+          "task_difficulty": 7,
+          "confidence": 5,
+          "note": "",
+          "created_date": "2026-08-13"
+        },
+        {
+          "name": "Seminar",
+          "task_type": "seminar",
+          "max_points": 10,
+          "deadline": "2026-08-30",
+          "task_difficulty": 7,
+          "confidence": 5,
+          "note": "",
+          "defense_date": "2026-09-01",
+          "created_date": "2026-08-13"
+        }
+      ]
+    }
+  ]
+}
